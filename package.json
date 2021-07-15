@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-marbles-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.8.0",
+    "rxjs": "^7.2.0",
+    "rxjs-marbles": "^7.0.1"
+  },
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
